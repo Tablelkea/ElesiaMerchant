@@ -1,0 +1,7 @@
+name: ElesiaMerchant
+version: '1.0'
+main: org.elesia.elesiamerchant.Main
+api-version: '1.21'
+prefix: ElesiaMerchant
+authors: [ TableIkea_ ]
+website: https://elenox.net
